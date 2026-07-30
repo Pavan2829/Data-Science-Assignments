@@ -125,7 +125,9 @@ Through these assignments, I have gained practical experience in:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
+- 💼 LinkedIn: www.linkedin.com/in/jangala-pavan-kumar-566600314
+
+
 - 🐙 GitHub: https://github.com/Pavan2829
 
 ---
